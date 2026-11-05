@@ -1,0 +1,13 @@
+# SCons / SJ2 build output
+_build/
+*.elf
+*.bin
+*.hex
+*.lst
+*.map
+*.sym
+
+# Editor / IDE
+.vscode/
+.idea/
+.DS_Store
